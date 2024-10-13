@@ -1,0 +1,1 @@
+export const lol="teri ma k saki nakA"
